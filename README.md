@@ -10,3 +10,8 @@ Install the dependencies and run the project:
 npm install  
 npm start  
 ```  
+
+## Deployment  
+
+You can play **Assembly Endgame** online here:  
+🔗 [Live Demo](assembly-endgame.pages.dev)
